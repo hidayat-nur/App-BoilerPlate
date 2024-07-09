@@ -1,4 +1,4 @@
-package com.infinitylab.basuri
+package com.plate.app
 
 import android.app.Application
 import com.facebook.react.PackageList

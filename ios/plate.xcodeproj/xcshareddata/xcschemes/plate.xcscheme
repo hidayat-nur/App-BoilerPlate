@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "basuribussid.app"
-               BlueprintName = "basuribussid"
-               ReferencedContainer = "container:basuribussid.xcodeproj">
+               BuildableName = "plate.app"
+               BlueprintName = "plate"
+               ReferencedContainer = "container:plate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "basuribussidTests.xctest"
-               BlueprintName = "basuribussidTests"
-               ReferencedContainer = "container:basuribussid.xcodeproj">
+               BuildableName = "plateTests.xctest"
+               BlueprintName = "plateTests"
+               ReferencedContainer = "container:plate.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "basuribussid.app"
-            BlueprintName = "basuribussid"
-            ReferencedContainer = "container:basuribussid.xcodeproj">
+            BuildableName = "plate.app"
+            BlueprintName = "plate"
+            ReferencedContainer = "container:plate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "basuribussid.app"
-            BlueprintName = "basuribussid"
-            ReferencedContainer = "container:basuribussid.xcodeproj">
+            BuildableName = "plate.app"
+            BlueprintName = "plate"
+            ReferencedContainer = "container:plate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.infinitylab.basuri"
+    namespace "com.plate.app"
     defaultConfig {
-        applicationId "com.infinitylab.basuri"
+        applicationId "com.plate.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 7
